@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Welcome to my page
+## My name is Stanley Ocran
+###### Stick around to see more interesting stuff.
